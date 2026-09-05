@@ -62,9 +62,15 @@ Data and AI executive with experience building analytics organizations, leading 
 
 ## Academic and Professional Contribution
 
-- Adjunct Faculty Member, ICT program, Mahidol University | September 2026 - Present.
-- Adjunct faculty at KMUTNB (2020 - Present) and Panyapiwat Institute of Management (2021 - Present), teaching statistical data science, big-data analysis, and business analytics and governance.
-- Co-authored a 2025 CLOSER paper on decentralized data strategies for virtual banking.
+**Current Adjunct Faculty Appointments**
+
+- **Mahidol University | September 2026 - Present:** ICT program.
+- **Panyapiwat Institute of Management | 2021 - Present:** Business analytics and data governance.
+- **King Mongkut's University of Technology North Bangkok | 2020 - Present:** Statistical data science and big-data analysis.
+
+**Selected Research:** Co-authored a 2025 CLOSER paper on decentralized data strategies for virtual banking.
+
+## Earlier Academic and Consulting Experience
 
 **Assumption University, Vincent Mary School of Engineering | Bangkok, Thailand**
 
