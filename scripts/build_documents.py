@@ -20,6 +20,22 @@ ROOT = Path(__file__).resolve().parents[1]
 SOURCES = (ROOT / "resume/executive-resume.md", ROOT / "cv/professional-cv.md")
 
 
+def validate_contacts() -> None:
+    """Reject historical or account addresses before generating either document."""
+    record = (ROOT / "career-data/contact.md").read_text(encoding="utf-8")
+    match = re.search(r"^Contact email: (\S+)$", record, re.MULTILINE)
+    if match is None:
+        raise ValueError("The approved professional contact email is missing")
+    approved_email = match.group(1)
+    email_pattern = r"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b"
+    if re.fullmatch(email_pattern, approved_email) is None:
+        raise ValueError("The approved professional contact email is invalid")
+    for source in SOURCES:
+        addresses = set(re.findall(email_pattern, source.read_text(encoding="utf-8")))
+        if addresses != {approved_email}:
+            raise ValueError(f"Unapproved or missing contact email in {source.name}")
+
+
 def add_runs(paragraph: Paragraph, text: str) -> None:
     """Preserve inline bold without introducing text boxes or layout tables."""
     for index, segment in enumerate(re.split(r"\*\*(.*?)\*\*", text)):
@@ -129,6 +145,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
+    validate_contacts()
     for source in SOURCES:
         build(source)
 

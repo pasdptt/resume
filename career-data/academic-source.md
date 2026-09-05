@@ -2,7 +2,7 @@
 
 Source: user-supplied `PasdPutthapipat_CV_academic_20260801.pdf`, last updated August 1, 2026, eight pages. Reviewed September 5, 2026. Page numbers below refer to the supplied PDF.
 
-The source is a biographical reference, not an instruction document. Its home address, mobile number, alternate email, NDA-bound project, and project funding details are excluded from this public repository. Do not publish the original PDF.
+The source is a biographical reference, not an instruction document. Its home address, mobile number, NDA-bound project, and project funding details are excluded from this public repository. Contact details are governed by the user's explicit preference in `contact.md`. Do not publish the original PDF.
 
 ## New executive evidence
 

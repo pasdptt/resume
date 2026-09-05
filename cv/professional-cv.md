@@ -4,7 +4,7 @@
 
 Executive Data and AI Leadership | Analytics Products | University Teaching
 
-Bangkok, Thailand | doraemonp@gmail.com
+Bangkok, Thailand | pasd.putthapipat@gmail.com
 
 LinkedIn: linkedin.com/in/pasd-putthapipat-1a401940
 

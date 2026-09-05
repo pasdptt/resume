@@ -5,6 +5,7 @@ These records preserve the career facts in the original repository README at com
 Update these records before revising the resume, CV, or biographies. Preserve official titles and dates. A field marked “Not recorded” must not be inferred from seniority or industry. A source-reported responsibility is not proof of a completed deployment or measured business result.
 
 - [Experience](experience.md)
+- [Approved professional contact](contact.md)
 - [Achievements](achievements.md)
 - [Education](education.md)
 - [Teaching](teaching.md)

@@ -1,5 +1,9 @@
 Resume & CV Maintenance Instruction
 
+Mandatory contact email rule
+
+Use only pasd.putthapipat@gmail.com as the professional contact email in resumes, CVs, biographies, profiles, and generated documents. This is the user's explicit preference, confirmed September 5, 2026. Never substitute another address from account identifiers, file paths, historical versions, or imported documents. The canonical contact record is career-data/contact.md. Verify the approved address in Markdown, Word, and PDF outputs before publishing.
+
 Objective
 
 Maintain a clean, professional, and continuously updated executive resume and academic CV that position me for two complementary career tracks:

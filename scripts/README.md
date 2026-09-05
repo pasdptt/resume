@@ -2,6 +2,8 @@
 
 The Markdown resume and CV are canonical applicant-facing sources. Career facts are maintained under `career-data/`.
 
+The only approved contact email is maintained in `career-data/contact.md`. The builder rejects missing or different email addresses in either document before generating outputs. Account identifiers and historical source documents must never override the user's contact preference.
+
 1. Update career records, then revise the Markdown resume, CV, and profiles.
 2. With Python 3.10 or newer and the dependencies in `requirements.txt`, run `python scripts/build_documents.py` from the repository. In Codex, use the Python runtime provided by the workspace dependency loader.
 3. Render both DOCX files using the Documents skill's `render_docx.py` with `--emit_pdf`, or export each DOCX to PDF with LibreOffice or Microsoft Word. Copy the resulting PDFs beside their Markdown and DOCX sources.
