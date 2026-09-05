@@ -4,11 +4,11 @@
 
 Data and AI strategy · Enterprise platforms · Analytics products · Governance
 
-Data and AI leader with experience building the analytics and products department at SCB DataX, leading 30+ data scientists at True Digital Group, and directing Data and AI Platform development at Infinitas by Krungthai. Earlier university teaching and departmental leadership complement this industry experience.
+Data and AI executive with Acting Director of Data experience for a virtual banking initiative at Infinitas by Krungthai, founding-team and department-building experience at DataX, and leadership of 30+ data scientists at True Digital Group. University teaching in data science, business analytics, and governance complements this industry experience.
 
 Career focus: **Chief Data Officer (CDO), Chief AI Officer (CAIO), Chief Data and AI Officer (CDAO), and senior Data & AI leadership.**
 
-Most recent appointment: Director of Data Innovation, Infinitas by Krungthai, December 2024 - July 2026. On a career break since August 2026.
+Most recent appointment: Director of Data Innovation, Infinitas by Krungthai, December 2024 - July 2026. On a career break from corporate roles since August 2026.
 
 ## Resume and CV
 
@@ -19,10 +19,16 @@ Most recent appointment: Director of Data Innovation, Infinitas by Krungthai, De
 
 ## Professional Profiles
 
+[LinkedIn](https://th.linkedin.com/in/pasd-putthapipat-1a401940)
+
 - [Executive biography](profile/executive-bio.md)
 - [Short biography](profile/short-bio.md)
 - [LinkedIn headline and summary](profile/linkedin-summary.md)
 - [Academic and teaching profile](profile/academic-profile.md)
+
+## Selected Research
+
+Co-author of [Framework for Decentralized Data Strategies in Virtual Banking](https://doi.org/10.5220/0013194500003950), CLOSER 2025.
 
 ## Maintenance
 

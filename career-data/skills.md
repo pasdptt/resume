@@ -14,7 +14,7 @@ AI product development; data science; machine learning engineering leadership; a
 
 Data strategy; data management and governance policy; PDPA compliance; IT purchasing and maintenance consulting; company IT direction; telecommunications legal advisement, industrial standards, and public policy.
 
-These are source-listed capabilities. No enterprise governance program outcome, regulator engagement, model-risk framework, or completed regulatory-reporting platform is established by the source.
+These are source-listed capabilities. The academic CV additionally establishes Data Governance setup within the Acting Director of Data remit for a virtual banking initiative. No measured governance outcome, regulator engagement, model-risk framework, or completed regulatory-reporting platform is established.
 
 ## Technology foundation
 
@@ -29,3 +29,9 @@ These are source-listed capabilities. No enterprise governance program outcome, 
 ## Evidence boundaries
 
 Generative AI deployments, LLM platforms, responsible AI implementation, AI governance frameworks, MLOps deployments, AWS, Azure, data lineage programs, and regulatory reporting outcomes are not recorded. Do not add them solely to match target-role keywords.
+
+## Additional academic-CV expertise
+
+Academic CV pages 5-8 adds data privacy, data engineering and architecture leadership, software-defined radio platforms (USRP, OSSIE), embedded platforms (BeagleBoard and Raspberry Pi), Verilog, CORBA, network services, and higher-education quality assurance exposure (US ABET; Thailand TQF, TPQI, MUA, ONESQA). These are experience and skill areas, not personal certifications.
+
+Research interests include applied big-data analytics for finance, digital products, and telecommunications; engineering education; telecommunications public policy; real-time network services; and earlier work in middleware, software-defined radio, IoT, home automation, and robotics. Research interest does not prove a deployed solution.

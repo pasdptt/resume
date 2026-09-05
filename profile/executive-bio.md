@@ -1,9 +1,11 @@
 # Executive Biography
 
-Pasd Putthapipat, PhD, is a data and AI leader with experience in financial services, telecommunications analytics, and university engineering education. His work spans organization building, analytics product strategy, multidisciplinary team leadership, and data platform development.
+Pasd Putthapipat, PhD, is a data and AI executive whose experience spans financial services, telecommunications analytics, and university teaching. He builds data organizations and leads product and platform development, combining technical depth with data strategy and governance.
 
-Most recently, he served as Director of Data Innovation at Infinitas by Krungthai from December 2024 to July 2026, leading Data and AI Platform development for a new group company and planning the transfer of practices across the group. Previously, as Head of Analytics and Products at SCB DataX, he built the department from inception and led teams across AI science, data science, analytics, business intelligence, machine learning engineering, and product ownership.
+From December 2024 to July 2026, he served as Director of Data Innovation at Infinitas by Krungthai. His remit included Acting Director of Data for a virtual banking initiative, leading platform setup across data engineering, architecture, and governance. He also led Data and AI Platform development for a new group company and planned the transfer of practices across the group.
 
-At True Digital Group, he held analytics product leadership roles, led 30+ data scientists, and directed product work spanning location intelligence, digital behavior, and alternative credit scoring. His earlier career included teaching and departmental leadership at Assumption University, industry research consulting, and research at Florida International University.
+A founding member of DataX, the analytics subsidiary of SCB X, he built the analytics organization and product team as Head of Analytics and Products. At True Digital Group, he led 30+ data scientists and held analytics product leadership roles covering location intelligence, digital behavior, and credit analytics.
 
-He holds a PhD in Electrical Engineering from Florida International University and a BEng in Computer Engineering from Assumption University. He has been on a career break since August 2026.
+His academic contribution includes adjunct teaching in statistical data science, big-data analytics, and data governance, alongside earlier departmental leadership at Assumption University. He co-authored a 2025 CLOSER paper on decentralized data strategies for virtual banking.
+
+He holds a PhD in Electrical Engineering and an MS in Computer Engineering from Florida International University, and a BEng in Computer Engineering from Assumption University. He has been on a career break from corporate roles since August 2026.

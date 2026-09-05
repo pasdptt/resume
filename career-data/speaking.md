@@ -1,5 +1,13 @@
 # Speaking and professional contribution
 
-No dated speaking engagements, conference presentations, publications, professional memberships, awards, or certifications are recorded in the original repository README at commit `82b9752`.
+Source: academic CV dated August 1, 2026, page 5.
 
-Add entries only from confirmed information, including event or organization, role, topic, date, audience, and an approved public reference where available. See [teaching](teaching.md) for the documented university appointment.
+## Selected guest-speaking organizations
+
+- KMITL.
+- NIDA.
+- True Digital Academy.
+
+The source labels these as guest-speaking engagements. Event titles, dates, audiences, topics, and presentation links are not recorded; do not infer AI or governance lecture subjects. Publication authorship does not establish conference attendance or a speaking role.
+
+See [teaching](teaching.md) for documented university teaching and [publications](publications.md) for the bibliography. Professional memberships and certifications are not recorded. The academic CV identifies education funding, recorded in [education](education.md).
