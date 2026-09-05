@@ -68,7 +68,7 @@ Data and AI executive with experience building analytics organizations, leading 
 - **Panyapiwat Institute of Management | 2021 - Present:** Business analytics and data governance.
 - **King Mongkut's University of Technology North Bangkok | 2020 - Present:** Statistical data science and big-data analysis.
 
-**Selected Research:** Co-authored a 2025 CLOSER paper on decentralized data strategies for virtual banking.
+**Selected Publication:** W. A. Pongpech and P. Putthapipat (2025). "Framework for Decentralized Data Strategies in Virtual Banking: Navigating Scalability, Innovation, and Regulatory Challenges in Thailand." Proceedings of the 15th International Conference on Cloud Computing and Services Science (CLOSER), pp. 111-118. [DOI: 10.5220/0013194500003950](https://doi.org/10.5220/0013194500003950).
 
 ## Earlier Academic and Consulting Experience
 

@@ -10,4 +10,4 @@ The only approved contact email is maintained in `career-data/contact.md`. The b
 4. Inspect every page of both documents. Verify page counts, reading order, dates, headings, and absence of clipping. The intended lengths are two to three pages for the resume and six for the CV.
 5. Compare extracted PDF text with the Markdown source. Commit the Markdown, DOCX, and PDF versions together only after verification.
 
-The builder preserves single-column text, semantic headings, inline bold, and list paragraphs. Explicit `<!-- pagebreak -->` markers control page transitions without adding visible text. Rendering intermediates and private review notes belong in `.local/`, which is excluded from Git.
+The builder preserves single-column text, semantic headings, inline bold, clickable HTTPS Markdown links, and list paragraphs. Explicit `<!-- pagebreak -->` markers control page transitions without adding visible text. Rendering intermediates and private review notes belong in `.local/`, which is excluded from Git.

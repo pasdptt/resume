@@ -12,6 +12,7 @@ from docx.document import Document as DocumentType
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
+from docx.opc.constants import RELATIONSHIP_TYPE
 from docx.text.paragraph import Paragraph
 from docx.shared import Inches, Pt, RGBColor
 
@@ -37,10 +38,23 @@ def validate_contacts() -> None:
 
 
 def add_runs(paragraph: Paragraph, text: str) -> None:
-    """Preserve inline bold without introducing text boxes or layout tables."""
+    """Preserve inline bold and clickable HTTPS references in the source text."""
     for index, segment in enumerate(re.split(r"\*\*(.*?)\*\*", text)):
-        run = paragraph.add_run(segment)
-        run.bold = index % 2 == 1
+        cursor = 0
+        for match in re.finditer(r"\[([^\]]+)\]\((https://[^\s)]+)\)", segment):
+            paragraph.add_run(segment[cursor:match.start()]).bold = index % 2 == 1
+            link = OxmlElement("w:hyperlink")
+            relationship = paragraph.part.relate_to(
+                match.group(2), RELATIONSHIP_TYPE.HYPERLINK, is_external=True
+            )
+            link.set(qn("r:id"), relationship)
+            run = paragraph.add_run(match.group(1))
+            run.bold = index % 2 == 1
+            run.underline = True
+            link.append(run._r)
+            paragraph._p.append(link)
+            cursor = match.end()
+        paragraph.add_run(segment[cursor:]).bold = index % 2 == 1
 
 
 def configure(document: DocumentType, *, resume: bool) -> None:
