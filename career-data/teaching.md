@@ -17,7 +17,16 @@ Sources: original repository README at commit `82b9752` and academic CV dated Au
 
 ## Adjunct faculty appointments
 
-The academic CV page 5 groups the following institutions under “Adjunct Faculty member.” Semester notation is preserved verbatim; “1/2020” means the source's term label and must not be rewritten as January 2020. Degree levels and teaching hours are not stated. Appointment type is adjunct faculty, not a full-time industry role.
+The Mahidol University appointment comes from the user update on September 5, 2026. The academic CV page 5 groups the other institutions below under “Adjunct Faculty member.” Semester notation is preserved verbatim; “1/2020” means the source's term label and must not be rewritten as January 2020. Degree levels and teaching hours are not stated. Appointment type is adjunct faculty, not a full-time industry role.
+
+### Mahidol University
+
+- Source: User update on September 5, 2026.
+- Role: Adjunct Faculty Member.
+- Program: ICT, as supplied by the user.
+- Dates: September 2026 - Present.
+- Faculty / department, course titles, degree level, teaching format, and hours: Not provided. Do not infer these from the program name.
+- This appointment is concurrent with the corporate career break and the continuing KMUTNB and PIM adjunct appointments.
 
 ### Panyapiwat Institute of Management (PIM)
 

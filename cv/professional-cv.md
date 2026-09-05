@@ -71,6 +71,12 @@ Data and AI executive with experience building analytics organizations, leading 
 
 ## Adjunct Teaching and Professional Contribution
 
+### Mahidol University
+
+**Adjunct Faculty Member | September 2026 - Present**
+
+ICT program.
+
 ### Panyapiwat Institute of Management
 
 **Adjunct Faculty Member | 2021 - Present**

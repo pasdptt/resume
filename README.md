@@ -10,6 +10,8 @@ Career focus: **Chief Data Officer (CDO), Chief AI Officer (CAIO), Chief Data an
 
 Most recent appointment: Director of Data Innovation, Infinitas by Krungthai, December 2024 - July 2026. On a career break from corporate roles since August 2026.
 
+Current adjunct appointments include Mahidol University’s ICT program (September 2026 - Present), Panyapiwat Institute of Management (2021 - Present), and KMUTNB (2020 - Present).
+
 ## Resume and CV
 
 | Document | PDF | Word | Markdown |

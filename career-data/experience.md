@@ -7,7 +7,7 @@ Sources: repository README at commit `82b9752`, academic CV dated August 1, 2026
 - Dates: August 2026 - Present.
 - Source: User confirmation on September 5, 2026: “I am on career break since end of July 2026.”
 - Reason: Not provided; do not infer one.
-- Continuing activity: The user confirmed that KMUTNB and PIM adjunct appointments remain current; see `teaching.md`. Other activities are not provided.
+- Continuing activity: The user confirmed that KMUTNB and PIM adjunct appointments remain current and added an adjunct appointment in Mahidol University’s ICT program from September 2026; see `teaching.md`. Other activities are not provided.
 
 ## Infinitas by Krungthai
 

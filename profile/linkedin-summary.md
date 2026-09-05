@@ -14,6 +14,6 @@ As a founding member of DataX, the analytics subsidiary of SCB X, I built the an
 
 At True Digital Group, I led 30+ data scientists and held product leadership roles across analytics and risk management. The portfolio included location intelligence, digital footprint analysis, behavioral analytics, and alternative credit scoring as a service.
 
-My academic contribution includes adjunct teaching in statistical data science, business analytics, and data governance, earlier departmental leadership at Assumption University, and a 2025 publication on decentralized data strategies for virtual banking. I hold a PhD in Electrical Engineering and an MS in Computer Engineering from Florida International University.
+Since September 2026, I have held an adjunct appointment in Mahidol University’s ICT program. My academic contribution also includes adjunct teaching in statistical data science, business analytics, and data governance, earlier departmental leadership at Assumption University, and a 2025 publication on decentralized data strategies for virtual banking. I hold a PhD in Electrical Engineering and an MS in Computer Engineering from Florida International University.
 
 My next career focus is Chief Data Officer, Chief AI Officer, or Chief Data and AI Officer leadership, bringing together data strategy, AI and analytics products, governance, platforms, and organization building.
