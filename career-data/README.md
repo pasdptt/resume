@@ -10,6 +10,7 @@ Update these records before revising the resume, CV, or biographies. Preserve of
 - [Selected programs and project evidence](projects.md)
 - [Education](education.md)
 - [Teaching](teaching.md)
+- [Public course links](course-links.md)
 - [Speaking](speaking.md)
 - [Skills](skills.md)
 - [Academic CV source record](academic-source.md)

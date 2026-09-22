@@ -19,6 +19,10 @@ Current adjunct appointments include Mahidol University’s ICT program (Septemb
 | Executive Resume | [Download](resume/executive-resume.pdf) | [Download](resume/executive-resume.docx) | [Read](resume/executive-resume.md) |
 | Professional CV | [Download](cv/professional-cv.pdf) | [Download](cv/professional-cv.docx) | [Read](cv/professional-cv.md) |
 
+## Teaching
+
+[Teaching & Course Materials](teaching/README.md) — a central directory of public courses, materials in development, and shared notebooks.
+
 ## Professional Profiles
 
 [LinkedIn](https://th.linkedin.com/in/pasd-putthapipat-1a401940)

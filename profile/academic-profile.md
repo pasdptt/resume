@@ -4,6 +4,8 @@ Pasd Putthapipat, PhD, combines data and AI leadership in industry with universi
 
 ## Adjunct Teaching Portfolio
 
+[Browse public courses and teaching materials](../teaching/README.md).
+
 - **Mahidol University | Adjunct Faculty Member | September 2026 - Present:** ICT program.
 - **Panyapiwat Institute of Management | Adjunct Faculty Member | 2021 - Present:** Data Analytics and Governance for Business Decision; Big Data Analytics for Consumer Behavior. Also served as Responsible Faculty Member, 2019-2020.
 - **King Mongkut's University of Technology North Bangkok | Adjunct Faculty Member | 2020 - Present:** Tools for Statistical Data Science; Statistical Analysis for Big Data, Department of Applied Statistics, Faculty of Applied Science.
