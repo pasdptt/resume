@@ -42,10 +42,11 @@ Data and AI executive with experience building analytics organizations, leading 
 
 **Analytics Business | March 2018 - October 2021 | Bangkok, Thailand**
 
+- Led development and launch of GeoPulse, DigiPulse, Customer360 for True Group, and True Score, spanning location, competitive digital, behavioral, and alternative credit analytics.
+
 **Head of Product, Analytics Product | May 2021 - October 2021**
 
 - Directed product development, product owners, and UX/UI teams across the analytics product lifecycle, from vision and roadmap through proof of concept and delivery.
-- Led a portfolio spanning location intelligence, competitive digital footprint analysis, automated behavioral analytics, and alternative credit scoring as a service.
 
 **Head of Product Development (Data Science), Analytics Product | June 2019 - April 2021**
 
@@ -80,7 +81,7 @@ Chairperson, Computer Engineering | October 2016 - April 2018
 
 Acting Chairperson, Aeronautic Engineering | February 2016 - September 2016
 
-- Taught algorithm design, embedded systems, IoT, and cloud computing; pursued applied research in connected devices, sensor analytics, and cloud-based social media analysis.
+- Taught algorithms, embedded systems, IoT, and cloud computing; researched connected devices, sensor analytics, and cloud-based social media analysis.
 
 **Saijo Denki International Co., Ltd. | Technical Consultant and Co-PI | August 2014 - April 2018**
 

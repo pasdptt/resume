@@ -38,4 +38,4 @@ Career facts are maintained in [career-data](career-data/README.md). The resume 
 
 This public repository contains selected professional information. Private review notes, confidential employer information, and personal documents do not belong in published updates.
 
-Updated September 5, 2026.
+Updated September 22, 2026.

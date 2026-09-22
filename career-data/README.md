@@ -7,6 +7,7 @@ Update these records before revising the resume, CV, or biographies. Preserve of
 - [Experience](experience.md)
 - [Approved professional contact](contact.md)
 - [Achievements](achievements.md)
+- [Selected programs and project evidence](projects.md)
 - [Education](education.md)
 - [Teaching](teaching.md)
 - [Speaking](speaking.md)

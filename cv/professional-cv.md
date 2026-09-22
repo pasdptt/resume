@@ -20,17 +20,25 @@ Data and AI executive with experience building analytics organizations, leading 
 
 **Director of Data Innovation | December 2024 - July 2026 | Bangkok, Thailand**
 
-- Served as Acting Director of Data for a virtual banking initiative, leading platform setup from inception across data engineering, data architecture, and data governance.
-- Led development of a Data and AI Platform for a new group company.
+**Virtual Banking Data Foundations and Data and AI Platform Development**
+
+- Served as Acting Director of Data for a virtual banking initiative, leading data platform setup from inception.
+- Led the setup of data engineering, data architecture, and data governance capabilities within the initiative's data remit.
+- Directed Data and AI Platform development for a new group company, with scope spanning the platform and the supporting data capabilities.
 - Planned the transfer of data and AI platform practices to other group companies.
 
 ### SCB DataX
 
 **Head of Analytics and Products | November 2021 - November 2024 | Bangkok, Thailand**
 
+**Analytics Organization and Product Team Establishment**
+
 - As a founding member of DataX, the analytics subsidiary of SCB X, built the analytics organization and product team from inception.
-- Led cross-functional teams of AI scientists, data scientists, data analysts, BI engineers, machine learning engineers, and product owners.
-- Directed the product development lifecycle from vision and roadmap through research, proof of concept, and delivery.
+- Brought together AI scientists, data scientists, data analysts, BI engineers, machine learning engineers, and product owners within the department, spanning research, analytics, engineering, and product responsibilities.
+
+**AI and Analytics Product Development**
+
+- Directed product vision and roadmaps, with leadership responsibility extending through research, proofs of concept, and product delivery.
 
 <!-- pagebreak -->
 
@@ -50,7 +58,7 @@ Data and AI executive with experience building analytics organizations, leading 
 
 **Acting Head of Product | October 2020 - April 2021**
 
-- Led 30+ data scientists in research and development of analytics products within an in-house startup.
+- Led 30+ data scientists researching and developing analytics products within an in-house startup.
 
 **Head of Risk Management Product, Analytics Product | January 2019 - May 2019**
 
@@ -60,12 +68,14 @@ Data and AI executive with experience building analytics organizations, leading 
 
 **Principal Data Scientist | March 2018 - October 2021**
 
-## Selected Product Portfolio
+## Selected Products Built and Launched
 
-- **Location intelligence:** Multidimensional density heat maps with analytical insights.
-- **Competitive analytics:** Reports analyzing digital footprints across competing businesses.
-- **Behavioral analytics:** Automated behavior extraction engines operating over a big-data platform.
-- **Credit analytics:** Alternative credit scoring as a service and hybrid credit capabilities across group businesses.
+Led development and launch of the following products during the True Digital Group tenure. Leadership covered product vision and roadmaps, research and proofs of concept, product development, and delivery, working with product owners, UX/UI, and the Analytics Platform team.
+
+- **GeoPulse | Location Intelligence:** Delivered multidimensional density heat maps with analytical insights, translating location data into a visual analytics product.
+- **DigiPulse | Competitive Digital Analytics:** Delivered digital footprint reports comparing competing businesses, providing a product for examining their digital activity.
+- **Customer360 for True Group | Behavioral Analytics:** Developed and launched automated behavior extraction engines over a big-data platform for True Group.
+- **True Score | Alternative Credit Scoring:** Developed and launched alternative credit scoring as a service, extending the portfolio into credit analytics.
 
 <!-- pagebreak -->
 
@@ -126,7 +136,12 @@ Guest-speaking engagements at KMITL, NIDA, and True Digital Academy.
 - Taught algorithm design, programming, digital logic, embedded systems, microprocessor and interfacing laboratories, discrete mathematics, and cloud computing.
 - Served on the School of Engineering Quality Assurance Team, May 2013 - April 2018, and as Responsible Faculty Member for Computer Engineering, August 2017 - April 2018, and Aeronautic Engineering, February 2015 - July 2017.
 - Held academic-advising, student-development, and international-relations coordination appointments.
-- Conducted applied research in open IoT platforms, access-control prototypes, sensor analytics, and Thai-language social media analysis using Google Cloud Platform.
+
+**Selected Applied Research Projects | May 2013 - April 2018**
+
+- **Open IoT platform and prototypes:** Developed an open platform using Raspberry Pi and prototypes for access control, voice-controlled communications, and customer counting.
+- **Sensor analytics:** Conducted big-data analysis using temperature and power sensor data.
+- **Cloud-based social media analytics:** Conducted Thai-language social trend analysis using Google Cloud Platform.
 
 ### Saijo Denki International Co Ltd
 

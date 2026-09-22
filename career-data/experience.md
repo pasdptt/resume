@@ -62,7 +62,7 @@ Sources: repository README at commit `82b9752`, academic CV dated August 1, 2026
 - Key achievements: Led a 30+ data scientist team researching and developing analytics products; provided hybrid credit capabilities and solutions across multiple CP Group businesses.
 - Quantifiable outcomes: Team size only; revenue, adoption, cost savings, credit-performance changes, and deployment counts not recorded.
 - Regulatory responsibilities: Not recorded for these roles.
-- Major products, generalized for public documents: Multidimensional density heat maps with analytical insights; competitive digital footprint reports; automated behavioral extraction over a big-data platform; alternative credit scoring as a service.
+- Major products: The user confirmed on September 22, 2026 that they built and launched GeoPulse (location intelligence), DigiPulse (competitive digital analytics), Customer360 for True Group (behavioral analytics), and True Score (alternative credit scoring). Product scope and evidence boundaries are maintained in `projects.md`. These product names were explicitly supplied for inclusion in the CV.
 - Strategic initiatives: Analytics product development within an in-house startup.
 - Important stakeholders: Internal and external clients; CP Group businesses; cross-functional product and technical teams. The academic CV (page 2) records close collaboration with the Analytics Platform team to deliver products to market.
 
