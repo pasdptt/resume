@@ -92,10 +92,11 @@ Sources: repository README at commit `82b9752`, academic CV dated August 1, 2026
 - Dates: August 2014 - April 2018.
 - Reporting level and team size: Not recorded.
 - Organizational scope: In-house startup unit.
-- Business scope: Product and service research and development.
-- Technology scope: Online-to-offline services, IoT devices, mobile network applications.
-- Major responsibilities: Technical consulting and co-principal-investigator research.
-- Key achievements: Research for product and service development.
+- Business scope: Product and service research and development; consumer IoT HVAC product launches.
+- Technology scope: IoT-enabled split-system air conditioners and air purifiers; online-to-offline services and mobile network applications.
+- Major responsibilities: Technical consulting, co-principal-investigator research, and consumer IoT product launches.
+- Key achievements: Launched IoT-enabled consumer products, including split-system air conditioners and air purifiers.
+- Source update: The user confirmed the consumer product launches on September 22, 2026. Product models, launch dates, individual ownership scope, sales, and adoption figures were not provided; do not infer them.
 - Quantifiable outcomes: Research funding is mentioned in the original source; the amount is not reproduced because attribution and public-disclosure suitability are not established.
 - Regulatory responsibilities and major platforms: Not recorded.
 - Strategic initiatives: Product and service innovation.

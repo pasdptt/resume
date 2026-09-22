@@ -67,7 +67,7 @@ Acting Chairperson, Aeronautic Engineering | Feb 2016 - Sep 2016
 
 **Technical Consultant and Co-PI | Aug 2014 - Apr 2018**
 
-- Conducted product and service research in online-to-offline services, IoT, and mobile network applications.
+- Launched IoT-enabled consumer products, including split-system air conditioners and air purifiers.
 
 ### Florida International University
 

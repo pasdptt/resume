@@ -30,6 +30,15 @@ Prepared September 22, 2026 to support a more detailed recruiter-facing CV. This
 - True Score - alternative credit scoring: Alternative credit scoring as a service. Separately, the risk-product role included hybrid credit capabilities and solutions across multiple CP Group businesses; do not assume every such solution used True Score.
 - Evidence boundary: Launch contribution is user-confirmed. Exact launch dates, product-specific technical implementations, user counts, commercial results, and credit-performance improvements are not recorded. External product descriptions or later versions do not establish the user's individual contribution.
 
+## Consumer IoT HVAC product launches
+
+- Organization and period: Saijo Denki International, August 2014 - April 2018.
+- Role: Technical Consultant and Co-PI.
+- Products: IoT-enabled consumer split-system air conditioners and air purifiers.
+- Contribution: Launched the consumer products during the Saijo Denki appointment.
+- Source update: User confirmation on September 22, 2026 establishes actual product launches in addition to the research and development described in the original CV.
+- Evidence boundary: Product models, exact launch dates, technical architecture, individual ownership scope, sales, adoption, and performance outcomes are not recorded. Do not imply sole authorship or add product features.
+
 ## Applied engineering research
 
 - Organization and period: Assumption University, May 2013 - April 2018, within the Lecturer appointment.

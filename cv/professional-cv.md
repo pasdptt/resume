@@ -147,7 +147,8 @@ Guest-speaking engagements at KMITL, NIDA, and True Digital Academy.
 
 **Technical Consultant and Co-PI | August 2014 - April 2018 | Bangkok, Thailand**
 
-- Conducted product and service research within an in-house startup unit, covering online-to-offline services, connected devices, and mobile network applications.
+- Launched IoT-enabled consumer products, including split-system air conditioners and air purifiers.
+- Researched IoT, mobile network applications, and online-to-offline services in an in-house startup.
 
 ### Florida International University
 
