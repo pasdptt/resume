@@ -49,7 +49,7 @@ Sources: repository README at commit `82b9752`, academic CV dated August 1, 2026
 - Overall dates: March 2018 - October 2021.
 - Positions and dates:
   - Head of Product, Analytics Product: May 2021 - October 2021.
-  - Head of Product Development (Data Science), Analytics Product: June 2019 - April 2021.
+  - Head of Product Development, Analytics Product: June 2019 - April 2021.
   - Acting Head of Product: October 2020 - April 2021, overlapping the product-development role as explicitly stated in the source.
   - Head of Risk Management Product, Analytics Product: January 2019 - May 2019.
   - Principal Data Scientist: March 2018 - October 2021, as recorded in the source; do not shorten this range to remove the overlap with leadership positions.

@@ -54,7 +54,7 @@ Data and AI executive with experience building analytics organizations, leading 
 - Directed product vision and roadmaps, research, proofs of concept, and delivery.
 - Partnered with the Analytics Platform team on software development to bring analytics products to market.
 
-**Head of Product Development (Data Science), Analytics Product | June 2019 - April 2021**
+**Head of Product Development, Analytics Product | June 2019 - April 2021**
 
 **Acting Head of Product | October 2020 - April 2021**
 

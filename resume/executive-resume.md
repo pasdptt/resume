@@ -35,7 +35,7 @@ Career break from corporate roles since Aug 2026; university teaching continues.
 
 Head of Product, Analytics Product | May 2021 - Oct 2021
 
-Head of Product Development (Data Science) | Jun 2019 - Apr 2021
+Head of Product Development | Jun 2019 - Apr 2021
 
 Acting Head of Product | Oct 2020 - Apr 2021
 

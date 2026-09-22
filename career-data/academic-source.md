@@ -29,6 +29,6 @@ Official institution pages establish names and program context only; they do not
 
 ## Reconciled title and date differences
 
-User clarification on September 5, 2026 confirms Head of Product starts May 2021, Principal Data Scientist is the correct title, and Acting Chairperson, Aeronautic Engineering starts February 2016. The academic CV supplies April 2021 end dates for Head of Product Development and Acting Head of Product, consistent with the May transition. Principal Data Scientist remains March 2018 - October 2021; the academic CV's Senior Data Scientist label is superseded by the user's clarification. Original product-development and risk-product title wording is retained.
+User clarification on September 5, 2026 confirms Head of Product starts May 2021, Principal Data Scientist is the correct title, and Acting Chairperson, Aeronautic Engineering starts February 2016. The academic CV supplies April 2021 end dates for Head of Product Development and Acting Head of Product, consistent with the May transition. Principal Data Scientist remains March 2018 - October 2021; the academic CV's Senior Data Scientist label is superseded by the user's clarification. The user clarified on September 22, 2026 that Head of Product Development should appear without a parenthetical qualifier. Risk-product title wording is retained.
 
 The user also confirmed on September 5, 2026 that both KMUTNB and PIM adjunct appointments remain current during the career break. Applicant-facing documents distinguish the corporate career break from continuing teaching.
