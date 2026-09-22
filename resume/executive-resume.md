@@ -2,101 +2,93 @@
 
 **EXECUTIVE DATA AND AI LEADER**
 
-Data and AI Strategy | Enterprise Platforms | Analytics Products | Governance
-
 Bangkok, Thailand | pasd.putthapipat@gmail.com
 
 LinkedIn: linkedin.com/in/pasd-putthapipat-1a401940
 
 ## Executive Profile
 
-Data and AI executive with experience building analytics organizations, leading multidisciplinary teams, and establishing data foundations across financial services and telecommunications. Served as Acting Director of Data for a virtual banking initiative at Infinitas by Krungthai, leading platform setup across data engineering, architecture, and governance. A founding member of DataX, built the analytics and products department and directed AI product development. Previously led 30+ data scientists at True Digital Group. Combines organization-building experience and technical depth with university teaching in data science and business analytics, and research on decentralized data strategies for virtual banking.
-
-## Leadership Expertise
-
-- **Strategy and organization:** Data and AI product strategy; department building; cross-functional leadership; product vision and roadmaps.
-- **Platforms and products:** Data and AI platforms; analytics; machine learning product development; business intelligence; credit and behavioral analytics.
-- **Governance and technology:** Data strategy; data management and governance policy; PDPA compliance; cloud and big-data technologies.
+Data and AI executive with experience in financial services and telecommunications. Successfully launched a Data and AI Platform with a lean team and led data engineering, architecture, and governance setup for a virtual banking initiative. A founding member of DataX, built its analytics and products department. At True Digital Group, led 30+ data scientists and the launch of four analytics products. Combines technical and organizational leadership with university teaching in data science, business analytics, and governance.
 
 ## Professional Experience
 
-**Career Break from Corporate Roles | August 2026 - Present**
+Career break from corporate roles since Aug 2026; university teaching continues.
 
 ### Infinitas by Krungthai
 
-**Director of Data Innovation | December 2024 - July 2026 | Bangkok, Thailand**
+**Director of Data Innovation | Dec 2024 - Jul 2026**
 
-- Served as Acting Director of Data for a virtual banking initiative, leading platform setup across data engineering, data architecture, and data governance.
-- Successfully launched a Data and AI Platform for a new group company with a lean team; planned the transfer of practices across the group.
+- Successfully launched a Data and AI Platform for a new group company with a lean team.
+- Served as Acting Director of Data for a virtual banking initiative, leading setup across data engineering, architecture, and governance.
+- Planned the transfer of data and AI platform practices across group companies.
 
 ### SCB DataX
 
-**Head of Analytics and Products | November 2021 - November 2024 | Bangkok, Thailand**
+**Head of Analytics and Products | Nov 2021 - Nov 2024**
 
-- As a founding member of DataX, the analytics subsidiary of SCB X, built the analytics and products department from inception, bringing together AI scientists, data scientists, data analysts, BI engineers, machine learning engineers, and product owners.
-- Directed end-to-end product development, connecting product vision and roadmaps with research, proofs of concept, and delivery.
-
-<!-- pagebreak -->
+- As a founding member, built the analytics and products department from inception.
+- Led AI scientists, data scientists, analysts, BI engineers, machine learning engineers, and product owners from product vision and roadmaps through research, proofs of concept, and delivery.
 
 ### True Digital Group
 
-**Analytics Business | March 2018 - October 2021 | Bangkok, Thailand**
+**Analytics Business | Mar 2018 - Oct 2021**
 
-- Led development and launch of GeoPulse, DigiPulse, Customer360 for True Group, and True Score, spanning location, competitive digital, behavioral, and alternative credit analytics.
+Head of Product, Analytics Product | May 2021 - Oct 2021
 
-**Head of Product, Analytics Product | May 2021 - October 2021**
+Head of Product Development (Data Science) | Jun 2019 - Apr 2021
 
-- Directed product development, product owners, and UX/UI teams across the analytics product lifecycle, from vision and roadmap through proof of concept and delivery.
+Acting Head of Product | Oct 2020 - Apr 2021
 
-**Head of Product Development (Data Science), Analytics Product | June 2019 - April 2021**
+Head of Risk Management Product | Jan 2019 - May 2019
 
-**Acting Head of Product | October 2020 - April 2021**
+Principal Data Scientist | Mar 2018 - Oct 2021 (concurrent with leadership roles)
 
-- Led 30+ data scientists researching and developing analytics products within an in-house startup.
+**Selected Achievements Across These Roles**
 
-**Head of Risk Management Product, Analytics Product | January 2019 - May 2019**
+- Led development and launch of GeoPulse (location intelligence), DigiPulse (competitive digital analytics), Customer360 for True Group (behavioral analytics), and True Score (alternative credit scoring).
+- Led 30+ data scientists in analytics product research and development as Head of Product Development.
+- Led risk-product development and technical operations for internal and external clients; provided hybrid credit capabilities across multiple CP Group businesses.
 
-- Led risk analytics product development and technical operations for internal and external clients, directing data scientists, business analysts, developers, and financial experts.
-- Provided hybrid credit capabilities and solutions across multiple CP Group businesses.
+<!-- pagebreak -->
 
-**Principal Data Scientist | March 2018 - October 2021**
+## Earlier Experience
 
-## Academic and Professional Contribution
+### Assumption University
 
-**Current Adjunct Faculty Appointments**
+**Lecturer, Computer Engineering | Jun 2006 - Apr 2018**
 
-- **Mahidol University | September 2026 - Present:** ICT program.
-- **Panyapiwat Institute of Management | 2021 - Present:** Business analytics and data governance.
-- **King Mongkut's University of Technology North Bangkok | 2020 - Present:** Statistical data science and big-data analysis.
+Chairperson, Computer Engineering | Oct 2016 - Apr 2018
 
-**Selected Publication:** W. A. Pongpech and P. Putthapipat (2025). "Framework for Decentralized Data Strategies in Virtual Banking: Navigating Scalability, Innovation, and Regulatory Challenges in Thailand." Proceedings of the 15th International Conference on Cloud Computing and Services Science (CLOSER), pp. 111-118. [DOI: 10.5220/0013194500003950](https://doi.org/10.5220/0013194500003950).
+Acting Chairperson, Aeronautic Engineering | Feb 2016 - Sep 2016
 
-## Earlier Academic and Consulting Experience
+- Taught algorithms, embedded systems, IoT, and cloud computing; conducted applied research in connected devices, sensor analytics, and social media analysis.
 
-**Assumption University, Vincent Mary School of Engineering | Bangkok, Thailand**
+### Saijo Denki International
 
-Lecturer, Computer Engineering | June 2006 - April 2018
+**Technical Consultant and Co-PI | Aug 2014 - Apr 2018**
 
-Chairperson, Computer Engineering | October 2016 - April 2018
+- Conducted product and service research in online-to-offline services, IoT, and mobile network applications.
 
-Acting Chairperson, Aeronautic Engineering | February 2016 - September 2016
+### Florida International University
 
-- Taught algorithms, embedded systems, IoT, and cloud computing; researched connected devices, sensor analytics, and cloud-based social media analysis.
-
-**Saijo Denki International Co., Ltd. | Technical Consultant and Co-PI | August 2014 - April 2018**
-
-- Conducted product and service research in online-to-offline services, IoT devices, and mobile network applications.
-
-**Florida International University | Researcher | August 2008 - April 2013**
+**Researcher | Aug 2008 - Apr 2013**
 
 - Conducted computer engineering and telecommunications research as a team lead and team member.
 
+## Current Academic Appointments
+
+Adjunct Faculty Member at the following institutions:
+
+- **Mahidol University | Sep 2026 - Present:** ICT program.
+- **Panyapiwat Institute of Management | 2021 - Present:** Business analytics and data governance.
+- **King Mongkut's University of Technology North Bangkok | 2020 - Present:** Statistical data science and big-data analysis.
+
 ## Education
 
-**PhD in Electrical Engineering | Florida International University, United States | April 2013**
+- **PhD, Electrical Engineering | Florida International University | Apr 2013.** Specialization in Telecommunications and Networking.
+- **MS, Computer Engineering | Florida International University | 2012.**
+- **BEng, Computer Engineering | Assumption University | Mar 2006.**
 
-Specialization in Telecommunications and Networking.
+## Selected Publication
 
-**MS in Computer Engineering | Florida International University, United States | 2012**
-
-**BEng in Computer Engineering | Assumption University, Thailand | March 2006**
+W. A. Pongpech and P. Putthapipat (2025). "Framework for Decentralized Data Strategies in Virtual Banking: Navigating Scalability, Innovation, and Regulatory Challenges in Thailand." Proceedings of the 15th International Conference on Cloud Computing and Services Science (CLOSER), pp. 111-118. [DOI: 10.5220/0013194500003950](https://doi.org/10.5220/0013194500003950).
