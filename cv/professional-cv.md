@@ -20,11 +20,11 @@ Data and AI executive with experience building analytics organizations, leading 
 
 **Director of Data Innovation | December 2024 - July 2026 | Bangkok, Thailand**
 
-**Virtual Banking Data Foundations and Data and AI Platform Development**
+**Data and AI Platform Launch and Virtual Banking Data Foundations**
 
+- Successfully launched a Data and AI Platform for a new group company with a lean team.
 - Served as Acting Director of Data for a virtual banking initiative, leading data platform setup from inception.
 - Led the setup of data engineering, data architecture, and data governance capabilities within the initiative's data remit.
-- Directed Data and AI Platform development for a new group company, with scope spanning the platform and the supporting data capabilities.
 - Planned the transfer of data and AI platform practices to other group companies.
 
 ### SCB DataX

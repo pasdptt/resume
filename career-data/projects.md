@@ -7,8 +7,9 @@ Prepared September 22, 2026 to support a more detailed recruiter-facing CV. This
 - Organization and period: Infinitas by Krungthai, December 2024 - July 2026.
 - Role: Director of Data Innovation, with Acting Director of Data responsibility for a virtual banking initiative.
 - Program scope: Data and AI Platform development for a new group company; setup across data engineering, data architecture, and data governance.
-- Contribution: Led setup from inception and platform development; planned transfer of practices to other group companies.
-- Evidence boundary: No confirmed production launch, completed transfer, implementation architecture, platform adoption, financial result, or regulatory approval.
+- Contribution: Led setup from inception and successfully launched the Data and AI Platform with a lean team; planned transfer of practices to other group companies.
+- Source update: On September 22, 2026, the user confirmed successful launch under tight staffing constraints and requested that banking projects remain described at a high level because most are under NDA. This update supersedes the earlier unconfirmed launch status.
+- Evidence boundary: Platform launch is confirmed; specific production scope, exact launch date, headcount, completed transfer, implementation architecture, adoption, financial results, and regulatory approvals are not recorded. Do not describe the entire bank as launched or infer a group-wide rollout.
 
 ## Analytics organization establishment and product development
 

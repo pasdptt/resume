@@ -27,7 +27,7 @@ Data and AI executive with experience building analytics organizations, leading 
 **Director of Data Innovation | December 2024 - July 2026 | Bangkok, Thailand**
 
 - Served as Acting Director of Data for a virtual banking initiative, leading platform setup across data engineering, data architecture, and data governance.
-- Led Data and AI Platform development for a new group company and planned the transfer of practices across the group.
+- Successfully launched a Data and AI Platform for a new group company with a lean team; planned the transfer of practices across the group.
 
 ### SCB DataX
 
